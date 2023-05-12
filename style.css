@@ -138,9 +138,12 @@
 
 .download {
     cursor: pointer;
-    padding: 2em 5em;
-    border-radius: 8px;
-    margin-right: 1em;
+    background-color: #0e0e0e00;
+}
+
+.download {
+    width: 30%;
+    height: 60px;
 }
 
 .content-title {
@@ -180,7 +183,7 @@
 .hero-content-rating {
     display: flex;
     align-items: center;
-    padding-top: 2em;
+    padding-top: 1em;
 }
 
 /* Brands section */
